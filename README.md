@@ -1,5 +1,1 @@
-
-
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake-gif](https://github.com/Ahmet0z/Ahmet0z/blob/output/github-contribution-grid-snake.gif)
