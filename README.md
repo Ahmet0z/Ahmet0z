@@ -29,10 +29,12 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-
+<div>
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet0z&layout=compact&theme=vision-friendly-dark" alt="ahmet0z" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmet0z&show_icons=true&theme=radical" alt="ahmet0z" /></p>
+
+</div>
 
 <!--
 <div align="center">
