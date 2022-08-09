@@ -33,12 +33,12 @@
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ahmet0z&show_icons=true&theme=radical" alt="ahmet0z" /></p>
 
-<!--
+
 <div align="center">
 <h1>:fire:My Stats :</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmet0z&" alt="ahmet0z" /></p>
 </div>
--->
+
 
 <h1>Snake Eating My Contribution Graph</h1>
 
