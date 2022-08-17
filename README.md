@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ahmet-ozpolat-6214bb208/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,14 +33,16 @@
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ahmet0z&show_icons=true&theme=radical" alt="ahmet0z" /></p>
 
-
 <div align="center">
-<h1>:fire:My Stats :</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmet0z&" alt="ahmet0z" /></p>
+<h1>:fire:My Streaks :</h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmet0z&theme=dark" alt="ahmet0z" /></p>
 </div>
 
 
+<div align="center">
 <h1>Snake Eating My Contribution Graph</h1>
 
 ![snake-gif](https://github.com/Ahmet0z/Ahmet0z/blob/output/github-contribution-grid-snake.gif)
+
+</div>
 
