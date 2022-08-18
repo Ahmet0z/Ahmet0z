@@ -1,6 +1,3 @@
-
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
@@ -15,8 +12,6 @@
 <h3 align="center">A passionate backend developer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmet0z&label=Profile%20views&color=0e75b6&style=flat" alt="ahmet0z" /> </p>
-
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -35,7 +30,7 @@
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ahmet0z&show_icons=true&theme=radical" alt="ahmet0z" /></p>
 
 <div align="center">
-<h1>:fire:My Streaks :</h1>
+<h1>:fire:My Streaks</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmet0z&theme=dark" alt="ahmet0z" /></p>
 </div>
 
@@ -46,4 +41,3 @@
 ![snake-gif](https://github.com/Ahmet0z/Ahmet0z/blob/output/github-contribution-grid-snake.gif)
 
 </div>
-
