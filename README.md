@@ -3,14 +3,15 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-  <div id="badges">
+  
+</div>
+
+<h1 align="center">Hi 👋, I'm Ahmet
+<div id="badges">
   <a href="https://www.linkedin.com/in/ahmet-ozpolat-6214bb208/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-</div>
-
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
+</div></h1>
 <h3 align="center">A passionate backend developer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmet0z&label=Profile%20views&color=0e75b6&style=flat" alt="ahmet0z" /> </p>
