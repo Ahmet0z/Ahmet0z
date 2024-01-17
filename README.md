@@ -29,6 +29,7 @@
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ahmet0z&show_icons=true&theme=radical" alt="ahmet0z" /></p>
 
+<!--
 <div align="center">
 <h1>:fire:My Streaks</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmet0z&theme=dark" alt="ahmet0z" /></p>
@@ -41,3 +42,4 @@
 ![snake-gif](https://github.com/Ahmet0z/Ahmet0z/blob/output/github-contribution-grid-snake.gif)
 
 </div>
+!-->
